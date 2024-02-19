@@ -1,1 +1,1 @@
-# game-rental
+# EdYoda NEM Certification Exam
